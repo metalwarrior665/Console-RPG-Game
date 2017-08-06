@@ -1,0 +1,34 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 15
+VisualStudioVersion = 15.0.26403.7
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "RpgGameska", "ConsoleApplication1\RpgGameska.csproj", "{15564CCE-5EB8-4043-B692-91BE1014A9F7}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ClassLibrary", "ClassLibrary\ClassLibrary.csproj", "{84DE43CF-F6AE-46DC-80EF-35B4F3B2AF04}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "MiscClasses", "MiscClasses\MiscClasses.csproj", "{95EFD1FB-80D6-407F-A07F-1632441CF085}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{15564CCE-5EB8-4043-B692-91BE1014A9F7}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{15564CCE-5EB8-4043-B692-91BE1014A9F7}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{15564CCE-5EB8-4043-B692-91BE1014A9F7}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{15564CCE-5EB8-4043-B692-91BE1014A9F7}.Release|Any CPU.Build.0 = Release|Any CPU
+		{84DE43CF-F6AE-46DC-80EF-35B4F3B2AF04}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{84DE43CF-F6AE-46DC-80EF-35B4F3B2AF04}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{84DE43CF-F6AE-46DC-80EF-35B4F3B2AF04}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{84DE43CF-F6AE-46DC-80EF-35B4F3B2AF04}.Release|Any CPU.Build.0 = Release|Any CPU
+		{95EFD1FB-80D6-407F-A07F-1632441CF085}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{95EFD1FB-80D6-407F-A07F-1632441CF085}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{95EFD1FB-80D6-407F-A07F-1632441CF085}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{95EFD1FB-80D6-407F-A07F-1632441CF085}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal

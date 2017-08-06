@@ -1,0 +1,14 @@
+C:\Users\Uživatel\Documents\Visual Studio 2015\Projects\ConsoleApplication1\ClassLibrary\bin\Debug\ClassLibrary.dll
+C:\Users\Uživatel\Documents\Visual Studio 2015\Projects\ConsoleApplication1\ClassLibrary\bin\Debug\ClassLibrary.pdb
+C:\Users\Uživatel\Documents\Visual Studio 2015\Projects\ConsoleApplication1\ClassLibrary\obj\Debug\ClassLibrary.csprojResolveAssemblyReference.cache
+C:\Users\Uživatel\Documents\Visual Studio 2015\Projects\ConsoleApplication1\ClassLibrary\obj\Debug\ClassLibrary.dll
+C:\Users\Uživatel\Documents\Visual Studio 2015\Projects\ConsoleApplication1\ClassLibrary\obj\Debug\ClassLibrary.pdb
+C:\Users\Uživatel\Documents\Visual Studio 2015\Projects\ConsoleApplication1\ClassLibrary\bin\Debug\MiscClasses.dll
+C:\Users\Uživatel\Documents\Visual Studio 2015\Projects\ConsoleApplication1\ClassLibrary\bin\Debug\MiscClasses.pdb
+C:\Users\Uživatel\Documents\Visual Studio 2017\Projects\RpgGameska\ClassLibrary\bin\Debug\ClassLibrary.dll
+C:\Users\Uživatel\Documents\Visual Studio 2017\Projects\RpgGameska\ClassLibrary\bin\Debug\ClassLibrary.pdb
+C:\Users\Uživatel\Documents\Visual Studio 2017\Projects\RpgGameska\ClassLibrary\bin\Debug\MiscClasses.dll
+C:\Users\Uživatel\Documents\Visual Studio 2017\Projects\RpgGameska\ClassLibrary\bin\Debug\MiscClasses.pdb
+C:\Users\Uživatel\Documents\Visual Studio 2017\Projects\RpgGameska\ClassLibrary\obj\Debug\ClassLibrary.csprojResolveAssemblyReference.cache
+C:\Users\Uživatel\Documents\Visual Studio 2017\Projects\RpgGameska\ClassLibrary\obj\Debug\ClassLibrary.dll
+C:\Users\Uživatel\Documents\Visual Studio 2017\Projects\RpgGameska\ClassLibrary\obj\Debug\ClassLibrary.pdb

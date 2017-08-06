@@ -1,0 +1,9 @@
+C:\Users\Uživatel\Documents\Visual Studio 2015\Projects\ConsoleApplication1\MiscClasses\bin\Debug\MiscClasses.dll
+C:\Users\Uživatel\Documents\Visual Studio 2015\Projects\ConsoleApplication1\MiscClasses\bin\Debug\MiscClasses.pdb
+C:\Users\Uživatel\Documents\Visual Studio 2015\Projects\ConsoleApplication1\MiscClasses\obj\Debug\MiscClasses.dll
+C:\Users\Uživatel\Documents\Visual Studio 2015\Projects\ConsoleApplication1\MiscClasses\obj\Debug\MiscClasses.pdb
+C:\Users\Uživatel\Documents\Visual Studio 2017\Projects\RpgGameska\MiscClasses\bin\Debug\MiscClasses.dll
+C:\Users\Uživatel\Documents\Visual Studio 2017\Projects\RpgGameska\MiscClasses\bin\Debug\MiscClasses.pdb
+C:\Users\Uživatel\Documents\Visual Studio 2017\Projects\RpgGameska\MiscClasses\obj\Debug\MiscClasses.csprojResolveAssemblyReference.cache
+C:\Users\Uživatel\Documents\Visual Studio 2017\Projects\RpgGameska\MiscClasses\obj\Debug\MiscClasses.dll
+C:\Users\Uživatel\Documents\Visual Studio 2017\Projects\RpgGameska\MiscClasses\obj\Debug\MiscClasses.pdb
